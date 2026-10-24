@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "boom",
+  "version": "${version}",
+  "name": "Boom: Dinamita y TNT 5x",
+  "description": "Dinamita minera 2x2 que no destruye los items y TNT 5x.",
+  "authors": ["tu"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.boom.BoomMod"] },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

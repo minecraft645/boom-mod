@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,lit=false": {
+      "model": "boom:block/dinamita"
+    },
+    "facing=north,lit=true": {
+      "model": "boom:block/dinamita"
+    },
+    "facing=east,lit=false": {
+      "model": "boom:block/dinamita",
+      "y": 90
+    },
+    "facing=east,lit=true": {
+      "model": "boom:block/dinamita",
+      "y": 90
+    },
+    "facing=south,lit=false": {
+      "model": "boom:block/dinamita",
+      "y": 180
+    },
+    "facing=south,lit=true": {
+      "model": "boom:block/dinamita",
+      "y": 180
+    },
+    "facing=west,lit=false": {
+      "model": "boom:block/dinamita",
+      "y": 270
+    },
+    "facing=west,lit=true": {
+      "model": "boom:block/dinamita",
+      "y": 270
+    }
+  }
+}

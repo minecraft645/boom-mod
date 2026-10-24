@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "P",
+    "G",
+    "G"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "G": "minecraft:gunpowder"
+  },
+  "result": {
+    "id": "boom:dinamita",
+    "count": 2
+  }
+}
